@@ -1,2 +1,2 @@
 # rockscissorspaper
-Rock Scissors Paper
+Recognition of Rock-paper-scissors using a teaching machine
