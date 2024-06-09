@@ -1,2 +1,2 @@
 # rockscissorspaper
-Rock Scissors Paper!
+Rock Scissors Paper
